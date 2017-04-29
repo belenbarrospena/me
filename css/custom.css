@@ -95,3 +95,7 @@ a > img:hover,
   font-weight: bold;
   margin: 5px 10% 20px;
 }
+
+.img-portfolio {
+  margin-top: 20px;
+}
