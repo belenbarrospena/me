@@ -115,3 +115,9 @@ a > img:hover,
 .img-portfolio {
   margin-top: 20px;
 }
+
+.footer {
+  border-top: 1px solid #080808;
+  text-align: center;
+  margin-top: 40px;
+}
