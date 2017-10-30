@@ -112,6 +112,10 @@ a > img:hover,
   margin: 5px 10% 20px;
 }
 
+.after_image_paragraph {
+  margin-top: 20px;
+}
+
 .img-portfolio {
   margin-top: 20px;
 }
