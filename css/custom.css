@@ -125,3 +125,7 @@ a > img:hover,
   text-align: center;
   margin-top: 40px;
 }
+
+.cv .lead {
+  margin-bottom: 45px;
+}
