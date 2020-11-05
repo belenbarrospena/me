@@ -79,8 +79,12 @@ body p, li {
   background-color: #080808 !important;
 }
 
-.thumbnail {
+/* .thumbnail {
   border-color: #080808;
+} */
+
+.list-group-item .thumbnail {
+  margin-bottom: 0px;
 }
 
 #design {
