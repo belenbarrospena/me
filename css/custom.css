@@ -133,3 +133,8 @@ a > img:hover,
 .cv .lead {
   margin-bottom: 45px;
 }
+
+h4 {
+  font-weight: bold;
+  margin-top: 0.8em;
+}
